@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+Welcome to SoftwareFromPeter, where I craft meticulously designed apps exclusively for the Apple ecosystem.
+
+
 <!--
 
 **Here are some ideas to get you started:**
